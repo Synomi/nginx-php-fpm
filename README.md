@@ -1,3 +1,7 @@
+##Changes to original
+Removed git stuff.
+Added support for dblib (php5-sybase)
+
 ## Introduction
 This is a Dockerfile to build a container image for nginx and php-fpm, with the ability to pull website code from git. The container can also use environment variables to configure your web application using the templating detailed in the special features section.
 ### Git reposiory
